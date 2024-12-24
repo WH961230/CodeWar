@@ -16,7 +16,52 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 2ad5b114847bf5c4883bc803bf1e885a
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 7c35e4bd4d075be40b97bad778ec1d70
+    m_Address: Packages/evoreek.lazypan/Runtime/Bundles/GameSetting/GameSetting.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d204f42a5075464b8d77299c3e56b25
+    m_Address: Assets/LazyPan/Bundles/Configs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b49b88bac86647e4c93f60ffb30edb31
+    m_Address: Assets/LazyPan/Bundles/Prefabs/Global
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98fa30f51b70ea145b5984d066ea9a6a
+    m_Address: Assets/LazyPan/Bundles/Prefabs/Obj
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 273fdcb88ebfd71459cac6e0fd78f6bd
+    m_Address: Assets/LazyPan/Bundles/Prefabs/Tool
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56a2146db503b5c438eafe8f402e3e3a
+    m_Address: Assets/LazyPan/Bundles/Prefabs/UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccabf685569fdc94690b15a40b78e3c0
+    m_Address: Assets/LazyPan/Bundles/Images
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da3467b4478c17942a8016813d3ad070
+    m_Address: Assets/LazyPan/Bundles/Sounds
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8513ccce19c1b6a4092346f907a95bb0
+    m_Address: Assets/LazyPan/Bundles/Configs/Input/LazyPanInputControl.inputactions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 509a1344f3a935a4880870c74763df67, type: 2}
   m_SchemaSet:

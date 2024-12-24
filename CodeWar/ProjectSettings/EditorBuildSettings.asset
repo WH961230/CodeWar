@@ -4,6 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LazyPan/Bundles/Scenes/Launch.unity
+    guid: 6bd175bd463494143832cd78940d8e52
+  - enabled: 1
+    path: Assets/LazyPan/Bundles/Scenes/SceneA.unity
+    guid: 55a4d75eabe5c4a4096c8aa0d7fe9c41
+  - enabled: 1
+    path: Assets/LazyPan/Bundles/Scenes/SceneB.unity
+    guid: 1204d2674e7966b44a92e59fe355daed
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 3e2af1931a8c4e643b1c0504fc16b53f, type: 2}
