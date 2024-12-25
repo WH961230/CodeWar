@@ -9,3 +9,4 @@ Obj_Camera_Camera,战斗场景B,Camera,战斗场景B相机,,跟随玩家
 Obj_Player_Player,战斗场景B,Player,战斗场景B玩家,LocationInf_SceneB_Player,玩家输入移动
 Obj_Global_Global,战斗场景B,Global,战斗场景B全局,,
 Obj_Event_SceneBUI,战斗场景B,Event,战斗场景B界面事件,,场景BUI事件
+Obj_Terrain_TerrainB,战斗场景B,Terrain,战斗场景B地形,,
